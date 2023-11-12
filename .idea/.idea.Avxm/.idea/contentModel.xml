@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Avxm" t="IncludeRecursive">
+        <e p="AmazonLoader.cs" t="Include" />
+        <e p="Avxm.csproj" t="IncludeRecursive" />
+        <e p="BaseLoader.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Book2Loader.cs" t="Include" />
+        <e p="BookLoader.cs" t="Include" />
+        <e p="CgsosoLoader.cs" t="Include" />
+        <e p="DayLoader.cs" t="Include" />
+        <e p="ImageLoader.cs" t="Include" />
+        <e p="MayaLoader.cs" t="Include" />
+        <e p="Models.cs" t="Include" />
+        <e p="NodeExec.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Avxm.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="UnityLoader.cs" t="Include" />
+        <e p="Vector2Loader.cs" t="Include" />
+        <e p="VectorLoader.cs" t="Include" />
+        <e p="ZipInfo.cs" t="Include" />
+      </e>
+      <e p="Avxm.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_Avxm.-1657951636.00" t="ExcludeRecursive" />
+  </component>
+</project>
